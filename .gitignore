@@ -1,0 +1,12 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+module02/
+module1/
+module3/
+unit1/
+unit2/
